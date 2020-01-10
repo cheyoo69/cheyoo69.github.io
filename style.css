@@ -1,0 +1,91 @@
+a{
+    text-decoration: none;
+    color: rgb(255,0,0);
+}
+li a:hover{
+   
+    background-color: #333;
+    color: red;
+}
+li{
+    display: inline;
+   
+}
+ul{
+    list-style-position: none;
+    height: 10vh;
+}
+li{
+    font-family: fantasy;
+    padding: 20px 100px;
+    text-shadow: 2px 2px rgb(255,255,0);
+}
+.name{
+    color: rgb(255,0,0);
+    text-align: center;
+    font-family: cursive;
+    text-shadow: 2px 2px rgb(255, 255, 0);
+    
+    
+}
+body{
+    background-color: lightblue;
+}
+a{
+    color:rgb(255,0,0);
+}
+li{
+    color: rgb(255,0,0);
+}
+p{
+    color: rgb(255,0,0);
+    text-align: center;
+    font-family: fantasy;
+    text-shadow: 2px 2px rgb(255, 255, 0);
+
+}
+h1{
+    color: rgb(255,0,0);
+}
+label{
+    color: rgb(255,0,0);
+}
+h2{
+    color: rgb(255,0,0);
+}
+tr{
+    color: rgb(255,0,0);
+}
+div{
+    text-align: center;
+}
+.About{
+    font-family: cursive;
+    text-align: center;
+    text-shadow: 2px 2px rgb(255, 255, 0);
+}
+.MP{
+    font-family: cursive;
+    text-align: center;
+    text-shadow: 2px 2px rgb(255, 255, 0);
+}
+table{
+    font-family: cursive;
+    text-shadow: 2px 2px rgb(255,255,0);
+    text-align: center;
+}
+.MWA{
+    font-family: cursive;
+    text-shadow: 2px 2px rgb(255,255,0);
+    text-align: center;
+}
+.con{
+    font-family: cursive;
+    text-shadow: 2px 2px rgb(255,255,0);
+    text-align: center;
+}
+.Chato{
+    font-family: cursive;
+    text-shadow: 2px 2px rgb(255,255,0);
+    text-align: center;
+}
